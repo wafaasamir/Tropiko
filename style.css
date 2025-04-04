@@ -445,3 +445,15 @@ form button{
  footer{
     margin: 5rem 0;
  }
+
+ .up{
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    background-color:var(--orange);
+    border-radius: 50%;
+    color: var(--white);
+    padding: 0.2rem;
+
+
+ }
